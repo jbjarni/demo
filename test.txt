@@ -1,3 +1,7 @@
 hér er testkrá
 bæti við línu
 hér átti að vera önnur lína
+bæti við 
+og bæti við trall lall la. 
+og bæti enn meira við 
+
