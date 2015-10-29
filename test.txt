@@ -1,2 +1,3 @@
 hér er testkrá
 bæti við línu
+hér átti að vera önnur lína
